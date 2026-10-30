@@ -1,0 +1,20 @@
+{
+ "date": "2026-10-30",
+ "issue": "010",
+ "title": "AI日报No.010｜谷歌云收入翻倍，股价大跌",
+ "description": "Daily Prompt 第10期 · 10月30日，今天的 10 条 AI 情报：\n01 谷歌云收入翻倍，股价大跌\n02 微软、谷歌都没上调资本开支\n03 Cohere 融资 70 亿加元，加拿大政府入股\n04 Mistral Large 4 开放权重\n05 智元发布具身交互模型 WITA-OMNI\n06 腾讯混元 Hy4 即将发布\n07 Serval 融资 1.5 亿美元，估值 30 亿\n08 Wabi 融资 5500 万美元，估值 12.5 亿\n09 Deepgram 收购 Pipecat 开发商 Daily\n10 新芯航途发布大模型芯片 X7 Ultra\n来源：Alphabet · CNBC · 路透 · TechCrunch · BetaKit · 新浪科技 · 北京商报",
+ "tags": [
+  "AI资讯",
+  "人工智能",
+  "科技新闻",
+  "谷歌",
+  "DailyPrompt"
+ ],
+ "qa_passed": true,
+ "sha256": "dab0de7065dfba0b953d4a327417748504d114f803dae10bf2c5196b3a31c246",
+ "size": 31241944,
+ "cover_sha256": "9437d474df87515c1cdb82df5e0227ed0b728a9b019750c3d2c5fc44fe1c6297",
+ "generated_at": "2026-10-30T08:01:58+08:00",
+ "source": "zhouzha-daily",
+ "schema": 1
+}
