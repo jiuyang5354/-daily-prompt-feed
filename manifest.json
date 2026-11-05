@@ -1,0 +1,20 @@
+{
+ "date": "2026-11-05",
+ "issue": "016",
+ "title": "AI日报No.016｜腾讯混元发布 Hy4 正式版",
+ "description": "Daily Prompt 第16期 · 11月5日，今天的 10 条 AI 情报：\n01 腾讯混元发布 Hy4 正式版\n02 苹果智能中国测试版接入千问\n03 Anthropic 研究模型身份证明 FlashProve\n04 fal 融资 13 亿美元，估值 160 亿\n05 OpenAI 请 Cathedral 攻自家防线\n06 苹果年报警告 AI 智能体失控\n07 CrowdStrike 推出 AI 智能体终止开关\n08 Revolut 改用自托管 GLM，编程成本降九成\n09 字节收紧员工用 Claude 和 Codex\n10 DeepSeek 据报拟用华为昇腾训练 V5\n来源：IT之家 · TechNode · TechCrunch · Apple 开发者 · CNBC · Gizmodo · The Register · 腾讯混元 · fal",
+ "tags": [
+  "AI资讯",
+  "人工智能",
+  "科技新闻",
+  "腾讯混元",
+  "DailyPrompt"
+ ],
+ "qa_passed": true,
+ "sha256": "e2a568e52026b13ccd38677393aad74dd1d9f420bdb2adf434ea6b09242b8353",
+ "size": 31011697,
+ "cover_sha256": "c2baf32d8c71135fbc82e17c5329a8407f20fc9905905bc2b8f220050712e451",
+ "generated_at": "2026-11-05T08:02:22+08:00",
+ "source": "zhouzha-daily",
+ "schema": 1
+}
